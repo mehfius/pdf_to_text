@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pdf-to-text": "^0.0.7"
+  }
+}
