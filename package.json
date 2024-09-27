@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "pdf-to-text": "^0.0.7"
+    "pdf-lib": "^1.17.1",
+    "pdf-to-text": "^0.0.7",
+    "pdfjs-dist": "^4.6.82"
   }
 }
